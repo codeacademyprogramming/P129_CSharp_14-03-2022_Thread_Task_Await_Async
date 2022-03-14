@@ -1,0 +1,11 @@
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\bin\Debug\P129FirstWinForm.exe.config
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\bin\Debug\P129FirstWinForm.exe
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\bin\Debug\P129FirstWinForm.pdb
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.Properties.Resources.resources
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.csproj.GenerateResource.cache
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.exe
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.pdb
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.Form1.resources
+C:\Users\memme\Desktop\P129\Task\P129FirstWinForm\obj\Debug\P129FirstWinForm.Form2.resources
